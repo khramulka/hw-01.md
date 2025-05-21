@@ -8,7 +8,7 @@
 ```
 Проверка версии terraform:
 
-![forest]https://github.com/khramulka/hw-01.md/blob/main/IMG/Screenshot_1.png
+![forest](https://github.com/khramulka/hw-01.md/blob/main/IMG/Screenshot_1.png)
  ![alt text](IMG/Screenshot_1.png)
 
  Скачал SCR:
