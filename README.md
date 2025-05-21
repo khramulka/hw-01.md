@@ -2,7 +2,8 @@
 
 ## Задание 1
 
-![forest](https://github.com/khramulka/hw-01.md/blob/main/IMG/Screenshot_1.png)
+![alt text](IMG/Screenshot_1.png)
+
 
 1 Перейдите в каталог src. Скачайте все необходимые зависимости, использованные в проекте.
 
