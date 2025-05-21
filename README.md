@@ -4,11 +4,11 @@
 
 1 Перейдите в каталог src. Скачайте все необходимые зависимости, использованные в проекте.
 
-- Ответ:IMG/Screenshot_1.png
+- Ответ:
 ```
 Проверка версии terraform:
 
-![forest](IMG/Screenshot_1.png)
+![forest]https://github.com/khramulka/hw-01.md/blob/main/IMG/Screenshot_1.png
  ![alt text](IMG/Screenshot_1.png)
 
  Скачал SCR:
