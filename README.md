@@ -8,6 +8,7 @@
 ```
 Проверка версии terraform:
 
+<img src="IMG/Screenshot_1.png />
  ![alt text](IMG/Screenshot_1.png)
 
  Скачал SCR:
