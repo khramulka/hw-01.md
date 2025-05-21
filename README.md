@@ -8,7 +8,7 @@
 ```
 Проверка версии terraform:
 
-![forest](/khramulka/hw-01.md/tree/main/IMG)
+![forest](/khramulka/hw-01.md/tree/main/IMG/Screenshot_1.png)
  ![alt text](IMG/Screenshot_1.png)
 
  Скачал SCR:
