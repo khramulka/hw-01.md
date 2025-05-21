@@ -8,7 +8,7 @@
 ```
 Проверка версии terraform:
 
-![terraform.tfstate](https://github.com/Firewal7/devops-netology/blob/main/image/07-terraform-01-1.jpg)(https://github.com/khramulka/hw-01.md/blob/main/IMG/Screenshot_1.png)
+![forest](https://github.com/Firewal7/devops-netology/blob/main/image/07-terraform-01-1.jpg)(https://github.com/khramulka/hw-01.md/blob/main/IMG/Screenshot_1.png)
  ![alt text](IMG/Screenshot_1.png)
 
  Скачал SCR:
